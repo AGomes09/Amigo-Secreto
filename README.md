@@ -42,7 +42,7 @@
 Para utilizar o projeto em sua máquina você precisa realizar uma cópia do mesmo, utilizando o comando **git clone**.
 
 ```bash
-git clone https://github.com/He-Dark/Amigo-Secreto.git
+git clone https://github.com/AGomes09/Amigo-Secreto.git
 ```
 
 ## Licença 📃
